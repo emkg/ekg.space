@@ -1,0 +1,7 @@
+.Space {
+  background-image: url('../img/hs-2006-01-q-full_jpg.jpg');
+  width: 250px;
+  height: 250px;
+  background-size: cover;
+  margin: auto;
+}
